@@ -2,7 +2,7 @@
 Cybersecurity Engineer focused on cloud security, security automation, and offensive security.
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=neelkotnis&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ##  Featured Projects
 
 ### AWS IAM Security Auditor
