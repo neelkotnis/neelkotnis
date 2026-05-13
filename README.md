@@ -1,11 +1,8 @@
 # Hi, I'm Neel Kotnis 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neelkotnis&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelkotnis&layout=compact&theme=tokyonight)
 
-Cybersecurity Specialist focused on:
-- Cloud Security
-- Application Security
-- Security Automation
-- Offensive Security
-- Network Security
+Cybersecurity Engineer focused on cloud security, security automation, and offensive security.
 
 ---
 
@@ -18,7 +15,7 @@ Audits AWS IAM configurations for:
 - Wildcard permissions
 - Stale access keys
 
-🔗 https://github.com/neelkotnis/aws-iam-security-auditor
+🔗 [AWS IAM Security Auditor](https://github.com/neelkotnis/aws-iam-security-auditor)
 
 ---
 
@@ -29,7 +26,7 @@ Python + Netmiko automation tool for:
 - Change tracking
 - Config diff detection
 
-🔗 https://github.com/neelkotnis/network-automation-config-backup
+🔗 [Network Automation Config Backup](https://github.com/neelkotnis/network-automation-config-backup)
 
 ---
 
@@ -37,10 +34,14 @@ Python + Netmiko automation tool for:
 
 ### Security & Infrastructure
 - Python
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - AWS
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 - IAM
 - Linux
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - Cisco Networking
+- ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 - Netmiko
 
 ### Domains
