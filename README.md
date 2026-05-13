@@ -1,8 +1,4 @@
 # Hi, I'm Neel Kotnis 👋
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neelkotnis&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neelkotnis&layout=compact&theme=tokyonight)
-
 Cybersecurity Engineer focused on cloud security, security automation, and offensive security.
 
 ---
