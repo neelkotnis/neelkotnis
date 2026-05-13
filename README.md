@@ -11,7 +11,7 @@
 ╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝    ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═══╝╚═╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=400&color=005BD1&background=00000000&center=true&vCenter=true&width=750&lines=Breaking+Things+to+Make+Them+Safer;Hunting+Threats+in+the+Cloud;Application+Security+Engineer;Security+Automation+Architect;Detection+Engineering+Specialist;Offensive+Security+Practitioner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=400&color=005BD1&background=00000000&center=true&vCenter=true&width=750&lines=Breaking+Things+to+Make+Them+Safer;Hunting+Threats+in+the+Cloud;Application+Security+Engineer;Security+Automation;Detection+Engineering+Specialist;Offensive+Security" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 ```json
 {
   "name": "Neel Kotnis",
-  "role": "Security S",
+  "role": "Security Specialist",
   "focus": [
     "Application Security",
     "Cloud Security",
