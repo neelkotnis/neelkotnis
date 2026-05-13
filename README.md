@@ -1,12 +1,13 @@
 # Hi, I'm Neel Kotnis 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neelkotnis&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelkotnis&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neelkotnis&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neelkotnis&layout=compact&theme=tokyonight)
 
 Cybersecurity Engineer focused on cloud security, security automation, and offensive security.
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### AWS IAM Security Auditor
 Audits AWS IAM configurations for:
