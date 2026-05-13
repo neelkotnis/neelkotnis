@@ -21,11 +21,15 @@
 
 </div>
 
+
+
+
+
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
 ## `> whoami`
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ```bash
 ┌──[neel@security-ops]─[~]
