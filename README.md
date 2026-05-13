@@ -64,4 +64,4 @@ Python + Netmiko automation tool for:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/neelkotnis
-- LinkedIn: ADD_YOUR_LINKEDIN_HERE
+- LinkedIn: www.linkedin.com/in/neelkotnis
